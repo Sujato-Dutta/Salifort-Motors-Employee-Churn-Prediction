@@ -56,6 +56,7 @@ The key findings are:
 
   •	Two groups of employees who left based on evaluation score and monthly hours worked: overworked employees who performed 
   very well and employees who worked slightly less than normal. 
+  
   3.	To retain employees, the following recommendations could be presented to the stakeholders: Most employees leave the 
    company due to over work. To address this issue:
 
