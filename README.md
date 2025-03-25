@@ -56,8 +56,7 @@ The key findings are:
 
   •	Two groups of employees who left based on evaluation score and monthly hours worked: overworked employees who performed 
   very well and employees who worked slightly less than normal. 
-
-4.	To retain employees, the following recommendations could be presented to the stakeholders: Most employees leave the 
+  3.	To retain employees, the following recommendations could be presented to the stakeholders: Most employees leave the 
    company due to over work. To address this issue:
 
   •	Cap the number of projects that employees can work on.
@@ -66,8 +65,10 @@ The key findings are:
   about why four-year tenured employees are so dissatisfied.
 
   •	Either reward employees for working longer hours, or don't require them to do so.
-•	If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
-•	Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
-•	Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
+  •	If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around 
+  workload and time off aren't explicit, make them clear.
+  •	Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in 
+  specific contexts.
+  •	Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
 
  
