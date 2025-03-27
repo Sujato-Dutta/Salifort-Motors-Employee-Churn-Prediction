@@ -67,5 +67,7 @@ The key findings are:
   	•	Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
  ![Image Alt](https://github.com/Sujato-Dutta/Salifort-Motors-Employee-Churn-Prediction/blob/23db10e09550365bc578ed67da55c410860f0292/6.jpg)
  ![Image Alt](https://github.com/Sujato-Dutta/Salifort-Motors-Employee-Churn-Prediction/blob/1862d81feec3abe2e85306107436a37b9cdb1166/7.jpg)
- ![Image Alt](image_url)
+
+## Executive Summary:
+ ![Image Alt](https://github.com/Sujato-Dutta/Salifort-Motors-Employee-Churn-Prediction/blob/f182365e317e13d102a5e3dd006b54fa429182ab/Executive%20Summary.jpg)
  
