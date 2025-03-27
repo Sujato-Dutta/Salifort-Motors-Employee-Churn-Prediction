@@ -47,29 +47,25 @@ The key findings are:
 1.	There are two groups of employees who left the company: (A) those who worked considerably less than their peers with the same number of projects, and (B) those who worked much more. Of those in group A, it's possible that they were fired. It's also possible that this group includes employees who had already given their notice and were assigned fewer hours because they were already on their way out the door. For those in group B, it's reasonable to infer that they probably quit. The folks in group B likely contributed a lot to the projects they worked in; they might have been the largest contributors to their projects.
 2.	Everyone with seven projects left the company.
   •	If we consider satisfaction level and tenure, Employees who left fall into two general categories: dissatisfied employees 
-  with shorter tenures and very satisfied employees with medium-length tenures.
-
-  •	Four-year employees who left seem to have an unusually low satisfaction level. It's worth investigating changes to 
-  company policy that might have affected people specifically at the four-year mark, if possible.
-
-  •	The longest-tenured employees didn't leave. Their satisfaction levels aligned with those of newer employees who stayed.
-
-  •	Two groups of employees who left based on evaluation score and monthly hours worked: overworked employees who performed 
-  very well and employees who worked slightly less than normal. 
+    with shorter tenures and very satisfied employees with medium-length tenures.•	Four-year employees who left seem to have 
+    an unusually low satisfaction level. It's worth investigating changes to company policy that might have affected people 
+    specifically at the four-year mark, if possible.•	The longest-tenured employees didn't leave. Their satisfaction levels 
+    aligned with those of newer employees who stayed.•	Two groups of employees who left based on evaluation score and 
+    monthly hours worked: overworked employees who performed very well and employees who worked slightly less than normal.
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
   
-  3.	To retain employees, the following recommendations could be presented to the stakeholders: Most employees leave the 
-   company due to over work. To address this issue:
-
-  •	Cap the number of projects that employees can work on.
-
-  •	Consider promoting employees who have been with the company for atleast four years, or conduct further investigation 
-  about why four-year tenured employees are so dissatisfied.
-
-  •	Either reward employees for working longer hours, or don't require them to do so.
-  •	If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around 
-  workload and time off aren't explicit, make them clear.
-  •	Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in 
-  specific contexts.
-  •	Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
-
+3.	To retain employees, the following recommendations could be presented to the stakeholders: Most employees leave the 
+    company due to over work. To address this issue:•	Cap the number of projects that employees can work on.
+    •	Consider promoting employees who have been with the company for atleast four years, or conduct further investigation 
+      about why four-year tenured employees are so dissatisfied.
+    •	Either reward employees for working longer hours, or don't require them to do so.
+    •	If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations 
+      around workload and time off aren't explicit, make them clear.
+    •	Hold company-wide and within-team discussions to understand and address the company work culture, across the board and 
+      in specific contexts.
+  	•	Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
  
