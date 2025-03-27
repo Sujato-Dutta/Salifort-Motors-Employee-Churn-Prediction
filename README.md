@@ -53,7 +53,7 @@ The key findings are:
     aligned with those of newer employees who stayed.•	Two groups of employees who left based on evaluation score and 
     monthly hours worked: overworked employees who performed very well and employees who worked slightly less than normal.
  ![Image Alt](https://github.com/Sujato-Dutta/Salifort-Motors-Employee-Churn-Prediction/blob/c4b9e0a9e50b60cec3d2ca677c977e17900f007e/3.jpg)
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Sujato-Dutta/Salifort-Motors-Employee-Churn-Prediction/blob/d91419f0b9573f68d5c8b3d793dd576bfb30868c/4.jpg)
   
 3.	To retain employees, the following recommendations could be presented to the stakeholders: Most employees leave the 
     company due to over work. To address this issue:•	Cap the number of projects that employees can work on.
