@@ -65,7 +65,7 @@ The key findings are:
     •	Hold company-wide and within-team discussions to understand and address the company work culture, across the board and 
       in specific contexts.
   	•	Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Sujato-Dutta/Salifort-Motors-Employee-Churn-Prediction/blob/23db10e09550365bc578ed67da55c410860f0292/6.jpg)
  ![Image Alt](image_url)
  ![Image Alt](image_url)
  
